@@ -1,6 +1,6 @@
 # Welcome to PuzzleGame!
 
-## What is PuzzleGame?👾
+## What is PuzzleGame? 👾
 
 PuzzleGame is a 2D game about a blue blob. Your goal is to get to the exit of each level and complete the game. Sounds easy, but there's a catch. You're in space and once you move, you cannot stop or change direction until you hit an obstacle. These obstacles vary in strength and weight, allowing you to interact with your environment.
 
@@ -52,18 +52,19 @@ This example only features a small amount of characters: `.` for an empty space,
 
 ## Screenshots:
 
-Here's the same level in-game
+### Here's the same level in-game
 ![image](https://github.com/Aliijjn/PuzzleGame/assets/114729493/38092735-a6e3-4ae7-a7f3-6460f37b8363)
 
-Things are getting more complicated 👀
+### Things are getting more complicated 👀
 ![image](https://github.com/Aliijjn/PuzzleGame/assets/114729493/a6d59ebc-247a-46f5-89ac-fc328c9c8c2c)
 
-The first level featuring crates
+### The first level featuring crates
 ![image](https://github.com/Aliijjn/PuzzleGame/assets/114729493/805b275b-c841-4004-9f53-3f8143cc9996)
 
-Portals
+### Portals
 ![image](https://github.com/Aliijjn/PuzzleGame/assets/114729493/6af6abc6-3e1d-4981-b294-e6479188da5e)
 
-?????
-
+### ?????
 ![image](https://github.com/Aliijjn/PuzzleGame/assets/114729493/92bc2099-27ff-4bf6-9779-8acaf07393ba)
+
+Made by Alijn Kuijer, 2023-2024
